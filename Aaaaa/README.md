@@ -1,0 +1,1 @@
+# AI Data Collector System\nThis is a modular Python system for collecting, filtering, and analyzing AI projects from GitHub for training purposes.\n
